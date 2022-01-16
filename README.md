@@ -1,5 +1,5 @@
 ### Welcome to my GitHub 👋
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ytendx&label=Profile%20views&color=ff0000&style=plastic" alt="ytendx" /> </p>
 <!--
 **ytendx/ytendx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
