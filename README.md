@@ -7,4 +7,6 @@
 
 Im Founder of [NeoProtect](https://neoprotect.net/)
 
+Java, Python, Netty, Spigot/Bungeecord/Paper, XDP, Hibernate/Spring, Fabric
+
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=ytendx&show_icons=true&theme=radical" /></p>
